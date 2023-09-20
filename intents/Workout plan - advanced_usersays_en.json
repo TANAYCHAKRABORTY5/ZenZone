@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f69a248a-1d32-4c22-97c7-ad34cddf6e89",
+    "data": [
+      {
+        "text": "I\u0027m a veteran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "682e73a0-fadc-49bb-8ce3-12ec75d26faf",
+    "data": [
+      {
+        "text": "Advanced level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c0f5a5e-d0ad-408d-b4ba-687add448635",
+    "data": [
+      {
+        "text": "I have plenty of experience",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

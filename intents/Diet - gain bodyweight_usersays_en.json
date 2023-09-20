@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b387bc7d-12bc-4c9f-89f9-7b8fbbd0b702",
+    "data": [
+      {
+        "text": "I want to put on size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "826588b2-a616-48ad-b982-2dc9ddd036c7",
+    "data": [
+      {
+        "text": "I want to bulk up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fab1214d-4401-4302-932c-22db7756e4e2",
+    "data": [
+      {
+        "text": "I want to gain weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

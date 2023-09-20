@@ -1,0 +1,41 @@
+[
+  {
+    "id": "60f3189f-9fdd-45e5-89a0-c9af850f0a49",
+    "data": [
+      {
+        "text": "I think i\u0027m depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2616d53f-0fbb-4815-9ba4-36b8475716c5",
+    "data": [
+      {
+        "text": "I feel depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a44e34b-1141-48d5-90d1-587639098538",
+    "data": [
+      {
+        "text": "I\u0027m suffering from depression",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

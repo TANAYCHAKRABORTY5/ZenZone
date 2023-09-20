@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f788ada6-b20f-4d04-8621-b1f0bb62996c",
+    "data": [
+      {
+        "text": "No experience or very little experience",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9e1ef7b-6292-47e8-98bf-01c63b1828f8",
+    "data": [
+      {
+        "text": "I\u0027m a newbie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9f1d904-6158-4ff8-8732-ae6304c0ff3b",
+    "data": [
+      {
+        "text": "Beginner level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "97c54628-117f-4629-8301-da7df1c98232",
+    "data": [
+      {
+        "text": "Difficulty in pronouncing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdf728ff-7821-47f2-8751-9d822c61d0b8",
+    "data": [
+      {
+        "text": "Articulation problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0262f25c-e5df-4ebf-a3dc-0532e956a00a",
+    "data": [
+      {
+        "text": "i need to improve my pronunciation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

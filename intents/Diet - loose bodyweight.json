@@ -1,0 +1,39 @@
+{
+  "id": "bd06a46e-63b7-4df2-b1a3-e7d1f9e2ba35",
+  "parentId": "a0c78403-2cf4-4588-a922-01184be6c0a9",
+  "rootParentId": "a0c78403-2cf4-4588-a922-01184be6c0a9",
+  "name": "Diet - loose bodyweight",
+  "auto": true,
+  "contexts": [
+    "Diet-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diet.Diet-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The main thing to focus on while loosing fat is that you are in a calorie deficit, to know how much calorie you should consume you can check our website. You need to focus especially on proteins during this phase, around 50% calories should be from protein, 35% from carbs, 15% from fats."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

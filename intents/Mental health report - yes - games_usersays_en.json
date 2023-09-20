@@ -1,0 +1,54 @@
+[
+  {
+    "id": "dd065dba-f05c-4fcf-9f97-e17b2fe1acde",
+    "data": [
+      {
+        "text": "games",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77687d2f-593b-497a-974e-98b2bcd7a400",
+    "data": [
+      {
+        "text": "I\u0027d like the games",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23f6ac32-4073-4cf1-9ce1-74dd0444a832",
+    "data": [
+      {
+        "text": "What games do you have in mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7baa8c29-ce7b-4fdc-9e5b-fdb0dd68bb0c",
+    "data": [
+      {
+        "text": "Suggest me the games",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

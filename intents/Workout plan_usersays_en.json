@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9fb12243-9db3-4aa0-a854-f9930e4506b9",
+    "data": [
+      {
+        "text": "Suggest me a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9d34d27-a385-49e7-afbf-b3ef94e18b7a",
+    "data": [
+      {
+        "text": "i need a weight training routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10094062-cd45-43b5-9ff3-a12b48c8e6ba",
+    "data": [
+      {
+        "text": "I need a workout plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

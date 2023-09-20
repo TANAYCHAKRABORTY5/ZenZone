@@ -1,0 +1,41 @@
+[
+  {
+    "id": "afa53aa6-15dd-43a5-b2f0-ec77a158b8eb",
+    "data": [
+      {
+        "text": "I\u0027m having anxiety attack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f531c902-788c-49b0-bf7d-3c11434ad387",
+    "data": [
+      {
+        "text": "I\u0027m feeling anxious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cfb66df-53a8-45fc-b342-8fcff94ebc9a",
+    "data": [
+      {
+        "text": "Anxiety",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

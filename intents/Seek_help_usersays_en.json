@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ec9368a9-9856-44a6-bb1a-a23817298571",
+    "data": [
+      {
+        "text": "I\u0027m struggling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ee91d41-50e5-4416-8567-fda1ca60d3c4",
+    "data": [
+      {
+        "text": "Can you help me out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d46875a0-fe80-43d4-b640-70788347b5ea",
+    "data": [
+      {
+        "text": "I\u0027m feeling down",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99090613-bc01-4e3f-8a84-f0cd3dea3a04",
+    "data": [
+      {
+        "text": "I\u0027m feeling low",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "883230fb-cecf-45de-a797-48677769d772",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

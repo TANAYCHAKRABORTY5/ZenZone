@@ -1,0 +1,44 @@
+{
+  "id": "1f5b3343-f657-4969-bfb5-dae36e9b9fd0",
+  "parentId": "c2a78948-3a2a-4257-bb60-6f0c9c037527",
+  "rootParentId": "c2a78948-3a2a-4257-bb60-6f0c9c037527",
+  "name": "Mental health report - yes",
+  "auto": true,
+  "contexts": [
+    "Mentalhealthreport-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mentalhealthreport.Mentalhealthreport-yes",
+      "affectedContexts": [
+        {
+          "name": "Mentalhealthreport-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are some suggestions to help you improve your situation:\n\n1. **Seek Professional Help:** First and foremost, consult with mental health professionals who can provide tailored strategies, therapy, and medication if necessary. A comprehensive treatment plan is crucial for managing depression, anxiety, and ADHD effectively.\n\n2. **Medication Management:** If prescribed, take medications for ADHD and any other mental health conditions as directed by your healthcare provider. Consistent medication can help stabilize your symptoms.\n\n3. **Therapy:** Consider therapy options such as cognitive-behavioral therapy (CBT), which can help with depression, anxiety, and ADHD management. Therapists can also provide strategies for coping with dyslexia-related challenges.\n\n4.**Break Tasks into Smaller Steps:** For tasks that feel overwhelming, break them down into smaller, more manageable steps. This can help reduce anxiety and make tasks more achievable.\n\n5. **Mindfulness and Relaxation:** Incorporate mindfulness and relaxation techniques into your daily routine to manage anxiety and improve focus. Meditation, deep breathing exercises, and progressive muscle relaxation can be helpful.\n\n6. **Professional Development:** Explore career and educational opportunities that align with your strengths and interests. ADHD, dyslexia, and other conditions can often come with unique talents and abilities.\n\nRemember that it\u0027s essential to work closely with healthcare professionals to tailor a plan that meets your specific needs. Managing these conditions is an ongoing process, and seeking help and support is a sign of strength.\n\nI could also recommend some fun games, diet plans and workout routines, I\u0027m sure that they will be of help. Please tell me what you need."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

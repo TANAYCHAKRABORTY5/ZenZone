@@ -1,0 +1,44 @@
+{
+  "id": "361c405e-1130-4b9b-ab4a-e2b7afe81184",
+  "parentId": "be743657-d604-486d-a320-5f1d8a86b679",
+  "rootParentId": "be743657-d604-486d-a320-5f1d8a86b679",
+  "name": "Seek_help - custom",
+  "auto": true,
+  "contexts": [
+    "Seek_help-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Seek_help.Seek_help-custom",
+      "affectedContexts": [
+        {
+          "name": "Seek_help-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m really sorry to hear that you\u0027re feeling this way, here are some ways you can cheer yourself up                                                                       \nLifestyle Changes: Making positive changes in your daily life can have a significant impact on your mood."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

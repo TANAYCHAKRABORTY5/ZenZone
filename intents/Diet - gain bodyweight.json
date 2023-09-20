@@ -1,0 +1,39 @@
+{
+  "id": "271cfe0e-756d-4e1d-a9c0-03aa8d4d0e08",
+  "parentId": "a0c78403-2cf4-4588-a922-01184be6c0a9",
+  "rootParentId": "a0c78403-2cf4-4588-a922-01184be6c0a9",
+  "name": "Diet - gain bodyweight",
+  "auto": true,
+  "contexts": [
+    "Diet-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diet.Diet-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To gain weight the basic requirement you need  is to eat more calories than you can burn. To know how many calories you need to consume you can check out our website. For gaining healthy bodyweight (i.e. more muscle than fat) you need to have almost 50% of calories from carbs, 30% from protein and 20% from fat."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

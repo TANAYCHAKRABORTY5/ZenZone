@@ -1,0 +1,39 @@
+{
+  "id": "e911447e-fc8a-4941-86ef-89067dfc5281",
+  "parentId": "ac6a2698-bd6c-4ae5-b888-6724af803b96",
+  "rootParentId": "ac6a2698-bd6c-4ae5-b888-6724af803b96",
+  "name": "Workout plan - intermediate",
+  "auto": true,
+  "contexts": [
+    "Workoutplan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Workoutplan.Workoutplan-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For an intermediate level program i would suggest a 5 day plan that follows Day1- Chest and Triceps, Day2- Back and Biceps, Day3- Shoulders and triceps, Day4- Legs, Day5- Chest and Back"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

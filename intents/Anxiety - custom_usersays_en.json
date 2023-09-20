@@ -1,0 +1,54 @@
+[
+  {
+    "id": "143fc2c1-9453-445c-b78c-6e7b9d6be526",
+    "data": [
+      {
+        "text": "It didn\u0027t work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c2f5858-a2d1-438f-aebd-9cf6afb3c9db",
+    "data": [
+      {
+        "text": "I\u0027m still feeling a little anxious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "033294d7-3ccf-46a2-9bb6-18f92424d03f",
+    "data": [
+      {
+        "text": "Didn\u0027t help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d15c5951-f36a-49ff-8a3a-dee600f5004b",
+    "data": [
+      {
+        "text": "Still feeling anxious",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "9df8ec51-7f33-48cb-b97b-29145351fdb6",
+  "parentId": "ac6a2698-bd6c-4ae5-b888-6724af803b96",
+  "rootParentId": "ac6a2698-bd6c-4ae5-b888-6724af803b96",
+  "name": "Workout plan - advanced",
+  "auto": true,
+  "contexts": [
+    "Workoutplan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Workoutplan.Workoutplan-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For an Advanced level workout routine i would suggest a 6 day split that follows Day 1 and 4- Chest, shoulder and triceps, Day 2 and 5- Back and biceps, Day 3 and 6- legs"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

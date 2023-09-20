@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a2cb1a09-5a31-4e8d-b074-de7f6dd008c2",
+    "data": [
+      {
+        "text": "Stuttering treatment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72e24cab-bb77-4674-9bfb-2841c6312fbc",
+    "data": [
+      {
+        "text": "I need to stop stuttering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "641bc13c-9186-4b3f-aeea-5ca6b3f1b1f5",
+    "data": [
+      {
+        "text": "improve stuttering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55d0683e-7c15-4992-b46c-d9cd8be467a7",
+    "data": [
+      {
+        "text": "what are some ways to improve stuttering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

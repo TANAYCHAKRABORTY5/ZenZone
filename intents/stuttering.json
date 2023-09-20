@@ -1,0 +1,35 @@
+{
+  "id": "f0d103b8-54b7-43b1-b0a7-2bc27da71ea8",
+  "name": "stuttering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Stuttering is a complex speech disorder that often requires professional intervention. Some ways to improve this disorder are Slow and Relaxed Speech, Deep breathing, Gentle repetition, visualization etc"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "fcb3a000-55b0-4e25-b092-1d5158c566c9",
+    "data": [
+      {
+        "text": "thanks, i really appreciate your response",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2a5645c-3da4-4acd-9098-7eb0fe847b56",
+    "data": [
+      {
+        "text": "thanks for the help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ef320cc-f6e4-4861-a241-c6d2bacda948",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

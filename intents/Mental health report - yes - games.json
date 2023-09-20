@@ -1,0 +1,39 @@
+{
+  "id": "26753ebc-e8d3-444f-bb4f-5c8558dfb7dd",
+  "parentId": "1f5b3343-f657-4969-bfb5-dae36e9b9fd0",
+  "rootParentId": "c2a78948-3a2a-4257-bb60-6f0c9c037527",
+  "name": "Mental health report - yes - games",
+  "auto": true,
+  "contexts": [
+    "Mentalhealthreport-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mentalhealthreport.Mentalhealthreport-yes.Mentalhealthreport-yes-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1) Games that promote relaxation, mindfulness, and stress reduction can be beneficial for anxiety disorders. \nE.g. \"Journey,\"\n2)Puzzle games can help improve cognitive skills and problem-solving abilities. They can be enjoyable for individuals with depression\nE.g. \"Sudoku\"\n3)Narrative-driven games with engaging stories can be emotionally cathartic and provide an outlet for self-expression, making them suitable for individuals with mood disorders.\nExamples: \"Life is Strange,\" \n4)Mobile apps specifically designed for cognitive training and mental fitness can help improve memory, attention, and problem-solving skills.\nExamples: \"Peak,\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

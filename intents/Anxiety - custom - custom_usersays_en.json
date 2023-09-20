@@ -1,0 +1,28 @@
+[
+  {
+    "id": "72c376c5-0dc9-4421-baed-9c78e233ae76",
+    "data": [
+      {
+        "text": "Suggest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4da389dc-9d06-4918-8063-b4458464e188",
+    "data": [
+      {
+        "text": "Suggest doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "c2a78948-3a2a-4257-bb60-6f0c9c037527",
+  "name": "Mental health report",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Mentalhealthreport-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2e6dc07a-192e-41ec-8604-249be9e40a9e",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your results - Mental Health Assessment\n\nYour Score- 9/20\nMid level depression (45%)\nLow level anxiety (10%)\nMood disorder (65%)\nHigh level ADHD (70%)\n\nFor more detailed results please visit our mind wellness dashboard. Type yes if you need advice on how to deal with the situation."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

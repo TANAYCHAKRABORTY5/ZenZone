@@ -1,0 +1,40 @@
+{
+  "id": "e94279de-3a4c-4f5b-9275-e63ccd92e7fc",
+  "name": "Anxiety",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Anxiety-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m really sorry to hear that you\u0027re feeling this way. Take a deep breath, hold it for a few seconds, then exhale. Repeat  4 to 5 times. If this doesn\u0027t work then do let me know"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d3101bb0-0f2e-4ff4-8994-23f6b81c0d46",
+    "data": [
+      {
+        "text": "I am used to some exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffdb6575-ed82-4be7-af1f-75cbb3eb7ca4",
+    "data": [
+      {
+        "text": "I\u0027m not a newbie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d956301-9c2f-4626-9710-60eef8ded823",
+    "data": [
+      {
+        "text": "I have some experience",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b833a8c-4a37-4c4e-9578-26fb85bf4b59",
+    "data": [
+      {
+        "text": "Intermediate level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

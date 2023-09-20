@@ -1,0 +1,39 @@
+{
+  "id": "51c4a76e-988d-410a-8b2c-8e42a9be0896",
+  "parentId": "ac6a2698-bd6c-4ae5-b888-6724af803b96",
+  "rootParentId": "ac6a2698-bd6c-4ae5-b888-6724af803b96",
+  "name": "Workout plan - beginner",
+  "auto": true,
+  "contexts": [
+    "Workoutplan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Workoutplan.Workoutplan-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For a beginner level i would suggest a 4 day plan which includes the following: Day 1 and 4- upper body, Day 2 and 5-lower body, Day 3,6,7 rest days"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

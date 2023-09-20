@@ -1,0 +1,39 @@
+{
+  "id": "0a38ed70-5149-4ca8-9346-8f6ed526b6db",
+  "parentId": "e1394938-52a8-4912-8975-61c670c8d780",
+  "rootParentId": "e94279de-3a4c-4f5b-9275-e63ccd92e7fc",
+  "name": "Anxiety - custom - custom",
+  "auto": true,
+  "contexts": [
+    "Anxiety-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Anxiety.Anxiety-custom.Anxiety-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nearby health specialist in your area are..."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

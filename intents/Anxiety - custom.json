@@ -1,0 +1,44 @@
+{
+  "id": "e1394938-52a8-4912-8975-61c670c8d780",
+  "parentId": "e94279de-3a4c-4f5b-9275-e63ccd92e7fc",
+  "rootParentId": "e94279de-3a4c-4f5b-9275-e63ccd92e7fc",
+  "name": "Anxiety - custom",
+  "auto": true,
+  "contexts": [
+    "Anxiety-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Anxiety.Anxiety-custom",
+      "affectedContexts": [
+        {
+          "name": "Anxiety-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In that case i would suggest that you play your favorite music, move around and stay active, try journaling and if all this doesn\u0027t help, i can suggest you a professional to visit"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
