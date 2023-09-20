@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+main .dashboard .detail {
+  margin: 100px;
+}
+
+.container .row .img-mind img {
+  width: 40%;
+}
+.hidden {
+  display: none;
+}
+
+.container .xy {
+  padding-top: 20px;
+}
+
+.container .row .blog-st {
+  padding-top: 20px;
+}
+
+.container .row div .class-thumb .class-info .big {
+  display: block;
+  position: absolute;
+  top: 3rem;
+  right: 2rem;
+  width: -0.5rem;
+  height: 3.5rem;
+  line-height: 3.5rem;
+  text-align: center;
+}
+
+#chatbotButton {
+  border: 0;
+}
+#chatbotButton img {
+  position: fixed;
+  top: 31em;
+  left: 75em;
+  width: 35px;
+}
