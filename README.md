@@ -1,5 +1,5 @@
 # ZenZone
-Branches
+Branches: Varun ,Tanay ,Avinash
 Varun - Booking app
 Avinash - AI bot 
 Tanay - website
